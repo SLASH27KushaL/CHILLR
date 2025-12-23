@@ -1,9 +1,9 @@
-Chillr is a comprehensive dual-portal event management platform designed to bridge the gap between event organizers and attendees. It features real-time dashboards, deep analytics, and a seamless booking experience.
+Chillr is a comprehensive dual-portal event management platform designed to bridge the gap between event organizers and attendees. It features real-time dashboards, actionable analytics, and a seamless booking experience.
 
 🚀 Key Highlights
 Dual-Portal Architecture: Separate interfaces for Clients (Event Organizers) and Users (Attendees).
 
-Data-Driven: Engineered real-time dashboards that helped clients track engagement, resulting in a ticket sales improvement of 18%.
+Data-Driven: Engineered real-time dashboards that helped clients track engagement, contributing to an 18% improvement in ticket sales.
 
 Scalable Management: The client-side dashboard successfully manages 40+ events simultaneously with detailed analytics on views, revenue, and sales.
 
