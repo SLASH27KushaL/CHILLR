@@ -1,6 +1,6 @@
 Chillr is a comprehensive dual-portal event management platform designed to bridge the gap between event organizers and attendees. It features real-time dashboards, actionable analytics, and a seamless booking experience.
 
-🚀 Key Highlights
+# Key Highlights
 Dual-Portal Architecture: Separate interfaces for Clients (Event Organizers) and Users (Attendees).
 
 Data-Driven: Engineered real-time dashboards that helped clients track engagement, contributing to an 18% improvement in ticket sales.
@@ -9,23 +9,23 @@ Scalable Management: The client-side dashboard successfully manages 40+ events s
 
 Robust Interactions: The user portal supports extensive event discovery and filtering, stress-tested with over 200+ ticket-related interactions.
 
-🛠️ Tech Stack
+# Tech Stack
 Frontend: React.js, Chart.js (Data Visualization)
 
 Backend: Node.js, Express.js
 
 Database: MongoDB
 
-Styling/UI: CSS/Styled Components (Update this if you used Tailwind or Material UI)
+Styling/UI: CSS/Styled Components
 
-👨‍💼 For Clients (Organizers)
+# For Clients (Organizers)
 Real-time Analytics: Visual graphs powered by Chart.js displaying revenue streams, page views, and ticket sales trends.
 
 Event Management: CRUD capabilities to create, update, and manage multiple events.
 
 Engagement Tracking: Tools to monitor how users are interacting with event listings.
 
-👤 For Users (Attendees)
+# For Users (Attendees)
 Event Discovery: Advanced filtering options (date, category, price) to find relevant events.
 
 Ticket Booking: Seamless workflow for selecting and purchasing tickets.
